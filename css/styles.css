@@ -61,7 +61,6 @@ p{
     right: 30%;
 }
 .title-image:hover{
-    transform: rotate(-15deg);
     transform: scale(1.2);
 }
 /* feature section */
