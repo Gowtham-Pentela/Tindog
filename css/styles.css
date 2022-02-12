@@ -80,6 +80,7 @@ p{
 }
 .icon:hover{
     color: #ff4c68;
+    transform: scale(1.2);
 }
 #testimonials{
     padding: 7% 10%;
@@ -139,9 +140,6 @@ p{
     text-align: center;
     background-color: #ffff;
     padding: 10px;
-}
-.icon:hover{
-    transform: scale(1.2);
 }
 .iconf:hover{
     transform: scale(1.2);
